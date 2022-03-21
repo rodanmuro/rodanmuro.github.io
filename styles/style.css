@@ -1,0 +1,37 @@
+ 
+  /* Centered text */
+  .centered-left {
+    position: absolute;
+    top: 30%;
+    left:10%;
+    text-align: left;
+    color: white;
+  }
+  
+  .typed {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150%;
+  }
+
+  .h1{
+    font-family: 'Courier New', Courier, monospace !important;
+    color: black;
+  }
+
+  .navbar{
+    box-shadow: 1px 1px 3px rgb(73, 73, 73);
+  }
+
+  .navbar .nav-item .nav-link {
+    color: #fff;
+  }
+
+  .main-header {
+    position: relative;
+    background: url(../img/portada6.png);
+    background-size: cover;
+    min-height: 625px;
+    background-repeat: no-repeat;
+  }
+
+  
